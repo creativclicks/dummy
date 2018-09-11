@@ -1,0 +1,15 @@
+{
+    "name": "creativclicks/dummy",
+    "description": "Dummy package for vendor reservation",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jan Delius",
+            "email": "jan.delius@creativclicks.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "prefer-stable": true
+}
